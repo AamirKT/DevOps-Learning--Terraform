@@ -87,6 +87,7 @@ After deployment, Terraform outputs the public IP of your EC2 instance:
 ```
 http://<public-ip>
 ```
+![WordPress AWS Architecture](https://github.com/AamirKT/DevOps-Learning--Terraform/blob/main/WordPress%20deployment%20project/wordpress.png?raw=true)
 
 
 ---
